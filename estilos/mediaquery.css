@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/*configuração para celular */
+
+@media screen and (min-width: 300px) and (max-width:480px){
+    section#msg{
+        width: 80vw ;
+        height: 512px;
+    }
+}
+/* configuração para tablet*/
+@media screen and (min-width: 768px) and (max-width: 992px){
+
+    section#msg{
+        width: 80vw;
+        height: 280px;
+    }
+
+}
+@media screen and (min-width:992px){
+
+    section#msg{
+        width: 990px;
+        height: 80vh;
+    }
+}
