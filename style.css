@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(118, 118, 204);
+    background-color: #255CDA;
     font: normal 15pt Arial;
 }
 header{
@@ -8,7 +8,8 @@ header{
 
 }
 section{
-    background-color: white;
+    background-color: #CA054D;
+    color: white;
     border-radius: 10px;
     padding: 15px;
     width: 500px;
@@ -16,8 +17,27 @@ section{
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.464);
 
 }
-div{
-
+div#sel{
+    margin-left: 160px;
+    padding: 10px;
+}
+option{
+    padding-top: 10px;
+}
+select#tab{
+    font: normal 12pt Arial;
+    
+    
+}
+input#bts{
+    font: normal 12pt Arial;
+    height: 28px;
+    color: black;
+}
+input#num{
+    font: normal 12pt Arial;
+    height: 25px;
+    width: 100px;
 }
 footer{
     color: white;
