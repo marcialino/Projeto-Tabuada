@@ -5,7 +5,7 @@
 @media screen and (min-width: 300px) and (max-width:480px){
     section#msg{
         width: 80vw ;
-        height: 512px;
+        height:100vh;
     }
 }
 /* configuração para tablet*/
@@ -13,14 +13,14 @@
 
     section#msg{
         width: 80vw;
-        height: 280px;
+        height: 100vh;
     }
 
 }
 @media screen and (min-width:992px){
 
     section#msg{
-        width: 990px;
+        width: 100vw;
         height: 80vh;
     }
 }
