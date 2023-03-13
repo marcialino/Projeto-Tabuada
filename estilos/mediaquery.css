@@ -4,7 +4,7 @@
 
 @media screen and (min-width: 300px) and (max-width: 480px){
     section{
-        width: 227px;
+        width: 90vw;
         height:400px;
     }
 }
