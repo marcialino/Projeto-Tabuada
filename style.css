@@ -31,8 +31,11 @@ select#tab{
 }
 input#bts{
     font: normal 12pt Arial;
+    font-weight: bold;
     height: 28px;
     color: black;
+    border-radius: 8px;
+   
 }
 input#num{
     font: normal 12pt Arial;
