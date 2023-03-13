@@ -4,8 +4,8 @@
 
 @media screen and (min-width: 300px) and (max-width:480px){
     section{
-        width: 80vw ;
-        height:300px;
+        width: 100vw ;
+        height:250px;
     }
 }
 /* configuração para tablet*/
