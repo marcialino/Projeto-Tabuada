@@ -2,7 +2,7 @@
 
 /*configuração para celular */
 
-@media screen and (min-width: 300px) and (max-width:480px){
+@media screen and (min-width: 300px) and (max-width: 480px){
     section{
         width: 227px;
         height:400px;
@@ -17,7 +17,7 @@
     }
 
 }
-@media screen and (min-width:992px){
+@media screen and (min-width: 992px){
 
     section{
         width: 500px;
