@@ -18,17 +18,17 @@ section{
 
 }
 div#sel{
-    margin-left: 160px;
+    margin-left: 0px;
     padding: 10px;
 }
 option{
     padding-top: 10px;
 }
 select#tab{
-    font: normal 12pt Arial;
-    
-    
+    font: normal 10pt Arial;
+       
 }
+
 input#bts{
     font: normal 12pt Arial;
     font-weight: bold;
