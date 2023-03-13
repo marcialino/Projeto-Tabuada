@@ -2,12 +2,7 @@
 
 /*configuração para celular */
 
-@media screen and (min-width: 300px) and (max-width:480px){
-    section{
-        width: 400px;
-        height:500px;
-    }
-}
+
 /* configuração para tablet*/
 @media screen and (min-width: 768px) and (max-width: 992px){
 
