@@ -3,15 +3,15 @@
 /*configuração para celular */
 
 @media screen and (min-width: 300px) and (max-width:480px){
-    section#msg{
+    section{
         width: 80vw ;
-        height:100vh;
+        height:500px;
     }
 }
 /* configuração para tablet*/
 @media screen and (min-width: 768px) and (max-width: 992px){
 
-    section#msg{
+    section{
         width: 80vw;
         height: 100vh;
     }
@@ -19,8 +19,8 @@
 }
 @media screen and (min-width:992px){
 
-    section#msg{
-        width: 100vw;
-        height: 80vh;
+    section{
+        width: 500px;
+        height: 60vh
     }
 }
