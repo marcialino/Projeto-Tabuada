@@ -11,15 +11,15 @@ section{
     background-color: #CA054D;
     color: white;
     border-radius: 10px;
-    padding: 5px;
+    padding: 3px;
     width: 500px;
     margin: auto;
 
 
 }
-div#sel{
+div#tab{
     margin-left: 70px;
-    padding: 10px;
+    
 }
 option{
     padding-top: 3px;
